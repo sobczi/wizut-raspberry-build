@@ -97,6 +97,12 @@ MIT
 @ngrx/store
 MIT
 
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
+MIT
+
 css-loader
 MIT
 Copyright JS Foundation and other contributors
